@@ -1,5 +1,5 @@
 ![Malware_Glossary_1](https://github.com/user-attachments/assets/0e6c1361-e475-4710-8bf2-b53981090472)
-<p>Credit : https://sosafe-awareness.com</p>
+<p>Credit : sosafe-awareness.com</p>
 
 # 🚨 Malicious File/Script Download Attempt – Threat Investigation Using Let’s Defend SIEM
 
